@@ -12,22 +12,10 @@ code {
     monospace;
 }
 
-body .container{
-  background-color: #f1f1f1;
-  min-height: 100vh;
-  box-shadow: black 0px 10px 15px;
-  margin: 20px auto;
+h1 {
+  color: white;
 }
 
-.superhero {
-  margin: 10px;
-}
-
-.superhero .card-title {
-  text-align: center;
-  padding-top: 10px;
-}
-.superhero img {
-  height: 200px;
-  max-width: 100%;
+.ant-layout-content {
+  min-height: 80vh;
 }
